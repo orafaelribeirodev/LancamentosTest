@@ -1,0 +1,47 @@
+# Build and Object Folders
+bin/
+obj/
+
+# VS2015 Configuration Directory
+.vs/
+
+#User Specific Files
+*.user
+*.suo
+
+#Resource Caches
+_ReSharper.*
+_TeamCity.*
+*.sln.cache
+
+#MacOS
+._*
+.DS_Store
+
+# Auto generated files
+.sass-cache/
+StyleCop.Cache
+DevEnv.cs
+
+# Specific files
+/source/Data.Seed/SparrowDB.Context.cs
+/source/Data.Seed/Database.Designer.cs
+/source/sparrow-ui.sublime-workspace
+/source/UI/UI.csproj.DotSettings
+/source/UI/npm-debug.log
+
+
+# User submitted files
+source/UI/Content/img/*
+!source/UI/Content/img/persons
+source/UI/Content/img/persons/*
+!source/UI/Content/img/persons/no_avatar_*.png
+source/UI/Content/temp/*
+source/UI/Content/Files/Proposals/*
+source/UI/Content/Files/temp/proposal/*
+
+/source/UI/app/components/
+
+/source/UI/ui.sublime-workspace
+
+/tools/files-to-localize.txt
