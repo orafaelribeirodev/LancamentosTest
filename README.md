@@ -102,5 +102,6 @@ Para rodar os testes unitários, utilize:
 dotnet test
 ```
 
+![image](https://github.com/user-attachments/assets/7490be58-5365-4bad-b935-1210bca7e21d)
 
 
