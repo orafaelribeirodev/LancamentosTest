@@ -102,18 +102,5 @@ Para rodar os testes unitários, utilize:
 dotnet test
 ```
 
----
 
-## 📌 Melhorias Futuras
-
-- Implementação de autenticação JWT
-- Implementação de cache com Redis para otimizar consultas
-- Suporte a múltiplos bancos de dados (SQL Server, PostgreSQL)
-- Criação de uma interface web para visualização dos lançamentos
-
----
-
-## 🔗 Contato
-
-Se tiver dúvidas ou sugestões, entre em contato via [email@email.com](mailto\:email@email.com) ou [GitHub](https://github.com/seu-usuario).
 
